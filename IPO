@@ -9,4 +9,4 @@ Process:
 Output:
 -Then if the user booked a flight their screen will display their flight details.
 -Then if the user will cancel their flight, their screen will display that they are authorized to be refunded from the cancelled flight.
--Then if the user only planned to check their details, their screen will display their flight.
+-Then if the user only planned to check their details, their screen will display their flight

@@ -1,3 +1,2 @@
 # Airline Ticketing Reservation
-Creating a coding project for airplane ticket reservation involves developing a software system that allows users to book and purchase airline tickets online. The project should include a user-friendly interface that guides the user through the booking process, validates user inputs, and displays relevant flight details and pricing information.
-
+Developing a coding project that manages the purchase and reservation of tickets for their clients. Customers may use it to look up and choose flights, and buy tickets online.The system normally has a database that contains data about flights, timetables, availability, prices, and customer information. When a customer searches for a flight, the database is searched for available flights depending on the client's search settings, such as the destination, departure date, and chosen class. The system then shows a list of accessible flights together with their associated prices and itineraries.
